@@ -5,6 +5,7 @@
 * Part One
   
   * [Day One](first/2018_10_06.md)
+  * [Day Two](first/2018_10_07.md)
 
 * 此书后记
 

@@ -16,7 +16,7 @@
   * [Day Ten](first/2018_10_15.md)
   * [Python3 简单](first/2018_10_16.md)
   * [冒泡排序](first/2018_10_17.md)
-  * [合并排序](first/2018_10_18.md)
+  * [归并排序](first/2018_10_18.md)
   * [插入排序](first/2018_10_19.md)
   * [快速排序](first/2018_10_20.md)
   * [基数排序](first/2018_10_21.md)
@@ -31,6 +31,10 @@
   * [Day Twelve](first/2018_10_30.md)
   * [Day Twelve](first/2018_10_21.md)
 
+* Part Two
+  
+  * [Day One](second/2018_11_01.md)
+  * [Day Two](second/2018_11_02.md)
 
 * 此书后记
 

@@ -4,12 +4,12 @@
 
 * Part One
   
-  * [Day One](first/2018_10_06.md)
-  * [Day Two](first/2018_10_07.md)
-  * [Day Three](first/2018_10_08.md)
-  * [Day Four](first/2018_10_09.md)
-  * [Day Five](first/2018_10_10.md)
-  * [Day Six](first/2018_10_11.md)
+  * [中意的](first/2018_10_06.md)
+  * [喜欢的](first/2018_10_07.md)
+  * [很爱的](first/2018_10_08.md)
+  * [稀罕的](first/2018_10_09.md)
+  * [非常爱的](first/2018_10_10.md)
+  * [就是你了](first/2018_10_11.md)
   * [Day Seven](first/2018_10_12.md)
   * [Day Eight](first/2018_10_13.md)
   * [Day Nine](first/2018_10_14.md)
